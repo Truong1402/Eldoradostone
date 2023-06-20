@@ -18,7 +18,7 @@ $(document).ready(function () {
         speed: 500,
         autoplay: true,
         arrows: false,
-         fade: true,
+        fade: true,
         draggable: false,
         cssEase: 'linear'
 
